@@ -1,5 +1,6 @@
 # Truffle
 bin/
+build/
 
 # Logs
 logs
