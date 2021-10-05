@@ -1,1 +1,1 @@
-# solidity-from-zero-toninja
+# Solidity from 0 to ninja

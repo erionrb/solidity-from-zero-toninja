@@ -1,0 +1,22 @@
+{
+  "name": "solidity-from-zero-toninja",
+  "version": "1.0.0",
+  "description": "Open source project with examples to learn solidity from 0 to ninja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erionrb/solidity-from-zero-toninja.git"
+  },
+  "keywords": [
+    "solidity"
+  ],
+  "author": "erionrb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erionrb/solidity-from-zero-toninja/issues"
+  },
+  "homepage": "https://github.com/erionrb/solidity-from-zero-toninja#readme"
+}
