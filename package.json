@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/erionrb/solidity-from-zero-toninja/issues"
   },
-  "homepage": "https://github.com/erionrb/solidity-from-zero-toninja#readme"
+  "homepage": "https://github.com/erionrb/solidity-from-zero-toninja#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  }
 }
